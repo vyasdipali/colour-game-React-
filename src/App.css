@@ -29,6 +29,7 @@ font-family: sans-serif;
   background: #B7B7B7;
   border-radius: 50px;
   margin-bottom: 35px;
+  overflow: hidden;
 }
 
 .empty_phe {
